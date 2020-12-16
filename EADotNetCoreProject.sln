@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EAAutoFramework", "EADotNetCoreProject\EAAutoFramework.csproj", "{FA3188AC-4B67-4A21-8D5F-E9C41A88CB52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MPAutoFramework", "EADotNetCoreProject\MPAutoFramework.csproj", "{FA3188AC-4B67-4A21-8D5F-E9C41A88CB52}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrossPlatformEATest", "CrossPlatformEATest\CrossPlatformEATest.csproj", "{6124621E-9445-4ECC-B83A-B85AE07C99DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MWL", "MWL\MWL.csproj", "{3FC7CA34-A443-4D05-A8B6-67E25CA0BE53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MWL", "MWL\MWL.csproj", "{3FC7CA34-A443-4D05-A8B6-67E25CA0BE53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AllureTest", "AllureTest\AllureTest.csproj", "{BAAED480-0392-4370-A555-C4026F804278}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,14 +19,14 @@ Global
 		{FA3188AC-4B67-4A21-8D5F-E9C41A88CB52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA3188AC-4B67-4A21-8D5F-E9C41A88CB52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA3188AC-4B67-4A21-8D5F-E9C41A88CB52}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6124621E-9445-4ECC-B83A-B85AE07C99DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6124621E-9445-4ECC-B83A-B85AE07C99DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6124621E-9445-4ECC-B83A-B85AE07C99DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6124621E-9445-4ECC-B83A-B85AE07C99DF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3FC7CA34-A443-4D05-A8B6-67E25CA0BE53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3FC7CA34-A443-4D05-A8B6-67E25CA0BE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FC7CA34-A443-4D05-A8B6-67E25CA0BE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FC7CA34-A443-4D05-A8B6-67E25CA0BE53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAAED480-0392-4370-A555-C4026F804278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAAED480-0392-4370-A555-C4026F804278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAAED480-0392-4370-A555-C4026F804278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAAED480-0392-4370-A555-C4026F804278}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
